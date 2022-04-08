@@ -128,6 +128,9 @@ $(document).ready(function () {
     $("#demo08").animatedModal({
         modalTarget: 'tetris'
     });
+    $("#demo09").animatedModal({
+        modalTarget: 'disasterguard'
+    });
 
     // Contact Form 	
 
