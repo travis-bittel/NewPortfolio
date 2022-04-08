@@ -125,6 +125,9 @@ $(document).ready(function () {
     $("#demo07").animatedModal({
         modalTarget: 'brusselbot'
     });
+    $("#demo08").animatedModal({
+        modalTarget: 'tetris'
+    });
 
     // Contact Form 	
 
